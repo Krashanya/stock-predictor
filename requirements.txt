@@ -41,7 +41,7 @@ ml_dtypes==0.5.4
 multitasking==0.0.13
 namex==0.1.0
 narwhals==2.22.1
-numpy==2.5.0
+numpy==2.4.6
 opt_einsum==3.4.0
 optree==0.19.1
 packaging==26.2
