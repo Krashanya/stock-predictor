@@ -1,7 +1,21 @@
-streamlit==1.58.0
+streamlit
 tensorflow==2.17.0
+keras
 numpy
-scipy
 pandas
+scipy
 matplotlib
 scikit-learn
+yfinance
+requests
+python-dateutil
+pytz
+
+# AI-powered analysis
+langchain
+langchain-core
+langgraph
+langchain-groq
+langchain-openai
+groq
+openai
